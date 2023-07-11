@@ -1,0 +1,2731 @@
+{
+    "states": [
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 0,
+                    "position": {
+                        "x": 100.0,
+                        "y": 200.0
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 1,
+                    "position": {
+                        "x": 150.0,
+                        "y": 258.7527525713892
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 2,
+                    "position": {
+                        "x": 200.0,
+                        "y": 295.085946050647
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 3,
+                    "position": {
+                        "x": 250.0,
+                        "y": 295.1351376233829
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 4,
+                    "position": {
+                        "x": 300.0,
+                        "y": 258.8815561967795
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 5,
+                    "position": {
+                        "x": 350.0,
+                        "y": 200.1592652916487
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 6,
+                    "position": {
+                        "x": 400.0,
+                        "y": 141.3762000829973
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 7,
+                    "position": {
+                        "x": 450.0,
+                        "y": 104.96348671186237
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 8,
+                    "position": {
+                        "x": 500.0,
+                        "y": 104.81591211843141
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 9,
+                    "position": {
+                        "x": 550.0,
+                        "y": 140.98978953354245
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 10,
+                    "position": {
+                        "x": 600.0,
+                        "y": 199.6814698206862
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 0.0,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": 0.0,
+                    "position": {
+                        "x": 25.0,
+                        "y": 200.0
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": 0.0,
+                    "score": 0.0
+                }
+            ],
+            "time": 0.0,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 0,
+                    "position": {
+                        "x": 100.0,
+                        "y": 200.0
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 1,
+                    "position": {
+                        "x": 150.0,
+                        "y": 258.7527525713892
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 2,
+                    "position": {
+                        "x": 200.0,
+                        "y": 295.085946050647
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 3,
+                    "position": {
+                        "x": 250.0,
+                        "y": 295.1351376233829
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 4,
+                    "position": {
+                        "x": 300.0,
+                        "y": 258.8815561967795
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 5,
+                    "position": {
+                        "x": 350.0,
+                        "y": 200.1592652916487
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 6,
+                    "position": {
+                        "x": 400.0,
+                        "y": 141.3762000829973
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 7,
+                    "position": {
+                        "x": 450.0,
+                        "y": 104.96348671186237
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 8,
+                    "position": {
+                        "x": 500.0,
+                        "y": 104.81591211843141
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 9,
+                    "position": {
+                        "x": 550.0,
+                        "y": 140.98978953354245
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 10,
+                    "position": {
+                        "x": 600.0,
+                        "y": 199.6814698206862
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 0.0,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": 20.425531914893618,
+                    "position": {
+                        "x": 25.0,
+                        "y": 200.0
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": 20.425531914893618,
+                    "score": 0.0
+                }
+            ],
+            "time": 0.0,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 1,
+                    "position": {
+                        "x": 150.0,
+                        "y": 258.7527525713892
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 2,
+                    "position": {
+                        "x": 200.0,
+                        "y": 295.085946050647
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 3,
+                    "position": {
+                        "x": 250.0,
+                        "y": 295.1351376233829
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 4,
+                    "position": {
+                        "x": 300.0,
+                        "y": 258.8815561967795
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 5,
+                    "position": {
+                        "x": 350.0,
+                        "y": 200.1592652916487
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 6,
+                    "position": {
+                        "x": 400.0,
+                        "y": 141.3762000829973
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 7,
+                    "position": {
+                        "x": 450.0,
+                        "y": 104.96348671186237
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 8,
+                    "position": {
+                        "x": 500.0,
+                        "y": 104.81591211843141
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 9,
+                    "position": {
+                        "x": 550.0,
+                        "y": 140.98978953354245
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 10,
+                    "position": {
+                        "x": 600.0,
+                        "y": 199.6814698206862
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 0.0,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": 4.845237890767919,
+                    "position": {
+                        "x": 63.2978723404256,
+                        "y": 200.0
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": -4.845237890767919,
+                    "score": 706.8583470577034
+                }
+            ],
+            "time": 1.9166666666666679,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 1,
+                    "position": {
+                        "x": 150.0,
+                        "y": 258.7527525713892
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 2,
+                    "position": {
+                        "x": 200.0,
+                        "y": 295.085946050647
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 3,
+                    "position": {
+                        "x": 250.0,
+                        "y": 295.1351376233829
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 4,
+                    "position": {
+                        "x": 300.0,
+                        "y": 258.8815561967795
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 5,
+                    "position": {
+                        "x": 350.0,
+                        "y": 200.1592652916487
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 6,
+                    "position": {
+                        "x": 400.0,
+                        "y": 141.3762000829973
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 7,
+                    "position": {
+                        "x": 450.0,
+                        "y": 104.96348671186237
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 8,
+                    "position": {
+                        "x": 500.0,
+                        "y": 104.81591211843141
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 9,
+                    "position": {
+                        "x": 550.0,
+                        "y": 140.98978953354245
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 10,
+                    "position": {
+                        "x": 600.0,
+                        "y": 199.6814698206862
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 34.123102564154976,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": 23.571950023326313,
+                    "position": {
+                        "x": 63.2978723404256,
+                        "y": 200.0
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": 23.571950023326313,
+                    "score": 706.8583470577034
+                }
+            ],
+            "time": 4.416666666666663,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 2,
+                    "position": {
+                        "x": 200.0,
+                        "y": 295.085946050647
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 3,
+                    "position": {
+                        "x": 250.0,
+                        "y": 295.1351376233829
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 4,
+                    "position": {
+                        "x": 300.0,
+                        "y": 258.8815561967795
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 5,
+                    "position": {
+                        "x": 350.0,
+                        "y": 200.1592652916487
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 6,
+                    "position": {
+                        "x": 400.0,
+                        "y": 141.3762000829973
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 7,
+                    "position": {
+                        "x": 450.0,
+                        "y": 104.96348671186237
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 8,
+                    "position": {
+                        "x": 500.0,
+                        "y": 104.81591211843141
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 9,
+                    "position": {
+                        "x": 550.0,
+                        "y": 140.98978953354245
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 10,
+                    "position": {
+                        "x": 600.0,
+                        "y": 199.6814698206862
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 34.123102564154976,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": 0.8966687990341494,
+                    "position": {
+                        "x": 119.3996638085865,
+                        "y": 238.01676800692047
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": -0.8966687990341494,
+                    "score": 1413.7166941154069
+                }
+            ],
+            "time": 7.333333333333351,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 2,
+                    "position": {
+                        "x": 200.0,
+                        "y": 295.085946050647
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 3,
+                    "position": {
+                        "x": 250.0,
+                        "y": 295.1351376233829
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 4,
+                    "position": {
+                        "x": 300.0,
+                        "y": 258.8815561967795
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 5,
+                    "position": {
+                        "x": 350.0,
+                        "y": 200.1592652916487
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 6,
+                    "position": {
+                        "x": 400.0,
+                        "y": 141.3762000829973
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 7,
+                    "position": {
+                        "x": 450.0,
+                        "y": 104.96348671186237
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 8,
+                    "position": {
+                        "x": 500.0,
+                        "y": 104.81591211843141
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 9,
+                    "position": {
+                        "x": 550.0,
+                        "y": 140.98978953354245
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 10,
+                    "position": {
+                        "x": 600.0,
+                        "y": 199.6814698206862
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 35.086390148012214,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": 21.552278464860567,
+                    "position": {
+                        "x": 119.3996638085865,
+                        "y": 238.01676800692047
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": 21.552278464860567,
+                    "score": 1413.7166941154069
+                }
+            ],
+            "time": 7.75000000000002,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 3,
+                    "position": {
+                        "x": 250.0,
+                        "y": 295.1351376233829
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 4,
+                    "position": {
+                        "x": 300.0,
+                        "y": 258.8815561967795
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 5,
+                    "position": {
+                        "x": 350.0,
+                        "y": 200.1592652916487
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 6,
+                    "position": {
+                        "x": 400.0,
+                        "y": 141.3762000829973
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 7,
+                    "position": {
+                        "x": 450.0,
+                        "y": 104.96348671186237
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 8,
+                    "position": {
+                        "x": 500.0,
+                        "y": 104.81591211843141
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 9,
+                    "position": {
+                        "x": 550.0,
+                        "y": 140.98978953354245
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 10,
+                    "position": {
+                        "x": 600.0,
+                        "y": 199.6814698206862
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 35.086390148012214,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": -4.7929560990316915,
+                    "position": {
+                        "x": 170.10297334981928,
+                        "y": 273.63366088214354
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": 4.7929560990316915,
+                    "score": 2120.5750411731105
+                }
+            ],
+            "time": 10.66666666666665,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 3,
+                    "position": {
+                        "x": 250.0,
+                        "y": 295.1351376233829
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 4,
+                    "position": {
+                        "x": 300.0,
+                        "y": 258.8815561967795
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 5,
+                    "position": {
+                        "x": 350.0,
+                        "y": 200.1592652916487
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 6,
+                    "position": {
+                        "x": 400.0,
+                        "y": 141.3762000829973
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 7,
+                    "position": {
+                        "x": 450.0,
+                        "y": 104.96348671186237
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 8,
+                    "position": {
+                        "x": 500.0,
+                        "y": 104.81591211843141
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 9,
+                    "position": {
+                        "x": 550.0,
+                        "y": 140.98978953354245
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 10,
+                    "position": {
+                        "x": 600.0,
+                        "y": 199.6814698206862
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 15.062295449449516,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": 24.377689566801816,
+                    "position": {
+                        "x": 170.10297334981928,
+                        "y": 273.63366088214354
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": 24.377689566801816,
+                    "score": 2120.5750411731105
+                }
+            ],
+            "time": 12.166666666666629,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 4,
+                    "position": {
+                        "x": 300.0,
+                        "y": 258.8815561967795
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 5,
+                    "position": {
+                        "x": 350.0,
+                        "y": 200.1592652916487
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 6,
+                    "position": {
+                        "x": 400.0,
+                        "y": 141.3762000829973
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 7,
+                    "position": {
+                        "x": 450.0,
+                        "y": 104.96348671186237
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 8,
+                    "position": {
+                        "x": 500.0,
+                        "y": 104.81591211843141
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 9,
+                    "position": {
+                        "x": 550.0,
+                        "y": 140.98978953354245
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 10,
+                    "position": {
+                        "x": 600.0,
+                        "y": 199.6814698206862
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 15.062295449449516,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": -4.63789382777935,
+                    "position": {
+                        "x": 215.22162494062073,
+                        "y": 285.77576026242764
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": 4.63789382777935,
+                    "score": 2827.4333882308138
+                }
+            ],
+            "time": 14.124999999999934,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 4,
+                    "position": {
+                        "x": 300.0,
+                        "y": 258.8815561967795
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 5,
+                    "position": {
+                        "x": 350.0,
+                        "y": 200.1592652916487
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 6,
+                    "position": {
+                        "x": 400.0,
+                        "y": 141.3762000829973
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 7,
+                    "position": {
+                        "x": 450.0,
+                        "y": 104.96348671186237
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 8,
+                    "position": {
+                        "x": 500.0,
+                        "y": 104.81591211843141
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 9,
+                    "position": {
+                        "x": 550.0,
+                        "y": 140.98978953354245
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 10,
+                    "position": {
+                        "x": 600.0,
+                        "y": 199.6814698206862
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 342.39943547542856,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": 21.94248955391918,
+                    "position": {
+                        "x": 215.22162494062073,
+                        "y": 285.77576026242764
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": 21.94248955391918,
+                    "score": 2827.4333882308138
+                }
+            ],
+            "time": 16.624999999999925,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 5,
+                    "position": {
+                        "x": 350.0,
+                        "y": 200.1592652916487
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 6,
+                    "position": {
+                        "x": 400.0,
+                        "y": 141.3762000829973
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 7,
+                    "position": {
+                        "x": 450.0,
+                        "y": 104.96348671186237
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 8,
+                    "position": {
+                        "x": 500.0,
+                        "y": 104.81591211843141
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 9,
+                    "position": {
+                        "x": 550.0,
+                        "y": 140.98978953354245
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 10,
+                    "position": {
+                        "x": 600.0,
+                        "y": 199.6814698206862
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 342.39943547542856,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": -3.882290848523175,
+                    "position": {
+                        "x": 264.89548832573365,
+                        "y": 270.0177439325242
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": 3.882290848523175,
+                    "score": 3534.291735288517
+                }
+            ],
+            "time": 19.04166666666666,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 5,
+                    "position": {
+                        "x": 350.0,
+                        "y": 200.1592652916487
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 6,
+                    "position": {
+                        "x": 400.0,
+                        "y": 141.3762000829973
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 7,
+                    "position": {
+                        "x": 450.0,
+                        "y": 104.96348671186237
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 8,
+                    "position": {
+                        "x": 500.0,
+                        "y": 104.81591211843141
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 9,
+                    "position": {
+                        "x": 550.0,
+                        "y": 140.98978953354245
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 10,
+                    "position": {
+                        "x": 600.0,
+                        "y": 199.6814698206862
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 320.6189617634629,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": 21.716942878737573,
+                    "position": {
+                        "x": 264.89548832573365,
+                        "y": 270.0177439325242
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": 21.716942878737573,
+                    "score": 3534.291735288517
+                }
+            ],
+            "time": 21.041666666666718,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 6,
+                    "position": {
+                        "x": 400.0,
+                        "y": 141.3762000829973
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 7,
+                    "position": {
+                        "x": 450.0,
+                        "y": 104.96348671186237
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 8,
+                    "position": {
+                        "x": 500.0,
+                        "y": 104.81591211843141
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 9,
+                    "position": {
+                        "x": 550.0,
+                        "y": 140.98978953354245
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 10,
+                    "position": {
+                        "x": 600.0,
+                        "y": 199.6814698206862
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 320.6189617634629,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": -5.280813147991975,
+                    "position": {
+                        "x": 321.5481432864473,
+                        "y": 223.5141190522165
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": 5.280813147991975,
+                    "score": 4241.15008234622
+                }
+            ],
+            "time": 24.45833333333348,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 6,
+                    "position": {
+                        "x": 400.0,
+                        "y": 141.3762000829973
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 7,
+                    "position": {
+                        "x": 450.0,
+                        "y": 104.96348671186237
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 8,
+                    "position": {
+                        "x": 500.0,
+                        "y": 104.81591211843141
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 9,
+                    "position": {
+                        "x": 550.0,
+                        "y": 140.98978953354245
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 10,
+                    "position": {
+                        "x": 600.0,
+                        "y": 199.6814698206862
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 313.68510475607,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": 22.723092609001014,
+                    "position": {
+                        "x": 321.5481432864473,
+                        "y": 223.5141190522165
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": 22.723092609001014,
+                    "score": 4241.15008234622
+                }
+            ],
+            "time": 24.958333333333496,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 7,
+                    "position": {
+                        "x": 450.0,
+                        "y": 104.96348671186237
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 8,
+                    "position": {
+                        "x": 500.0,
+                        "y": 104.81591211843141
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 9,
+                    "position": {
+                        "x": 550.0,
+                        "y": 140.98978953354245
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 10,
+                    "position": {
+                        "x": 600.0,
+                        "y": 199.6814698206862
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 313.68510475607,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": 4.892623717942309,
+                    "position": {
+                        "x": 374.51780189274336,
+                        "y": 168.05567984258778
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": -4.892623717942309,
+                    "score": 4948.008429403923
+                }
+            ],
+            "time": 28.37500000000026,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 7,
+                    "position": {
+                        "x": 450.0,
+                        "y": 104.96348671186237
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 8,
+                    "position": {
+                        "x": 500.0,
+                        "y": 104.81591211843141
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 9,
+                    "position": {
+                        "x": 550.0,
+                        "y": 140.98978953354245
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 10,
+                    "position": {
+                        "x": 600.0,
+                        "y": 199.6814698206862
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 320.10925806361286,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": 21.423474014598405,
+                    "position": {
+                        "x": 374.51780189274336,
+                        "y": 168.05567984258778
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": 21.423474014598405,
+                    "score": 4948.008429403923
+                }
+            ],
+            "time": 28.875000000000274,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 8,
+                    "position": {
+                        "x": 500.0,
+                        "y": 104.81591211843141
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 9,
+                    "position": {
+                        "x": 550.0,
+                        "y": 140.98978953354245
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 10,
+                    "position": {
+                        "x": 600.0,
+                        "y": 199.6814698206862
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 320.10925806361286,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": 4.101292771201761,
+                    "position": {
+                        "x": 421.77579544932576,
+                        "y": 128.55483684639182
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": -4.101292771201761,
+                    "score": 5654.866776461627
+                }
+            ],
+            "time": 31.791666666667023,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 8,
+                    "position": {
+                        "x": 500.0,
+                        "y": 104.81591211843141
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 9,
+                    "position": {
+                        "x": 550.0,
+                        "y": 140.98978953354245
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 10,
+                    "position": {
+                        "x": 600.0,
+                        "y": 199.6814698206862
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 343.11837893414764,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": 23.87077951350866,
+                    "position": {
+                        "x": 421.77579544932576,
+                        "y": 128.55483684639182
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": 23.87077951350866,
+                    "score": 5654.866776461627
+                }
+            ],
+            "time": 33.79166666666693,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 9,
+                    "position": {
+                        "x": 550.0,
+                        "y": 140.98978953354245
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 10,
+                    "position": {
+                        "x": 600.0,
+                        "y": 199.6814698206862
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 343.11837893414764,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": 4.751960283195081,
+                    "position": {
+                        "x": 464.60475331387903,
+                        "y": 115.55740960806261
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": -4.751960283195081,
+                    "score": 6361.72512351933
+                }
+            ],
+            "time": 35.708333333333485,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 9,
+                    "position": {
+                        "x": 550.0,
+                        "y": 140.98978953354245
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 10,
+                    "position": {
+                        "x": 600.0,
+                        "y": 199.6814698206862
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 16.584564037921,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": 22.00756514644456,
+                    "position": {
+                        "x": 464.60475331387903,
+                        "y": 115.55740960806261
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": 22.00756514644456,
+                    "score": 6361.72512351933
+                }
+            ],
+            "time": 38.20833333333334,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 10,
+                    "position": {
+                        "x": 600.0,
+                        "y": 199.6814698206862
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 16.584564037921,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": 4.004812362923139,
+                    "position": {
+                        "x": 514.698347307083,
+                        "y": 130.47626474001882
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": -4.004812362923139,
+                    "score": 7068.583470577033
+                }
+            ],
+            "time": 40.62499999999987,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 10,
+                    "position": {
+                        "x": 600.0,
+                        "y": 199.6814698206862
+                    },
+                    "radius": 15.0
+                },
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 39.05240938886595,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": 25.299423405152783,
+                    "position": {
+                        "x": 514.698347307083,
+                        "y": 130.47626474001882
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": 25.299423405152783,
+                    "score": 7068.583470577033
+                }
+            ],
+            "time": 42.62499999999976,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 39.05240938886595,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": 4.4459819430229794,
+                    "position": {
+                        "x": 572.0014349267925,
+                        "y": 176.96624242841872
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": -4.4459819430229794,
+                    "score": 12095.131716320702
+                }
+            ],
+            "time": 45.583333333332924,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [
+                {
+                    "explosionTimes": [
+                        [
+                            50.0
+                        ]
+                    ],
+                    "id": 11,
+                    "position": {
+                        "x": 650.0,
+                        "y": 300.0
+                    },
+                    "radius": 40.0
+                }
+            ],
+            "robots": [
+                {
+                    "angle": 57.626909471013185,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": 24.77337093966571,
+                    "position": {
+                        "x": 572.0014349267925,
+                        "y": 176.96624242841872
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": 24.77337093966571,
+                    "score": 12095.131716320702
+                }
+            ],
+            "time": 47.08333333333284,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "particles": [],
+            "robots": [
+                {
+                    "angle": 57.626909471013185,
+                    "captureAngle": 30.0,
+                    "id": 0,
+                    "leftSpeed": 24.77337093966571,
+                    "position": {
+                        "x": 610.6892994806473,
+                        "y": 237.99189519541025
+                    },
+                    "radius": 20.0,
+                    "rightSpeed": 24.77337093966571,
+                    "score": 12095.131716320702
+                }
+            ],
+            "time": 49.99999999999934,
+            "worldEnd": {
+                "x": 700.0,
+                "y": 400.0
+            },
+            "worldOrigin": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        }
+    ]
+}
